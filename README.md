@@ -62,6 +62,8 @@ Known Issues and Limitations
 
  ![image](https://github.com/user-attachments/assets/cc68b6ce-b675-434d-958b-3ca0c0467e50)
 
+All the images used in the Blackjack game, such as the card images, chips, and backgrounds, are located in the 'assets' folder within the project directory. This folder is essential for the game to function properly, so please do not delete or move it. If you wish to customize the game's appearance, you can replace the images in this folder with your own, making sure to keep the same file names and formats.
+
 Disclaimer: This project is the product of the Algorithm Design laboratory at the Faculty of Automation, Computers, and Electronics, University of Craiova (http://ace.ucv.ro/). It is intended for educational purposes and may include limitations or incomplete features. Use it at your own risk, and conduct thorough testing and configuration before considering any production deployment. 
 
 Thank you for immersing yourself in my project! I hope you find Blackjack both captivating and instructive! I warmly welcome your feedback or suggestions to further enrich this academic endeavor.
